@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note Manager</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_name_hint">Note Name</string>
+    <string name="note_content_hint">Note Content</string>
+    <string name="btn_save">Save Note</string>
+    <string name="btn_delete">Delete Selected</string>
+    <string name="warning_empty">Fields cannot be empty!</string>
+    <string name="storage_pref">Using: SharedPreferences</string>
+    <string name="storage_file">Using: Internal Storage</string>
+    <string name="switch_storage">Switch Storage</string>
+</resources>
