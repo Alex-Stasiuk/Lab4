@@ -6,7 +6,6 @@ import static org.junit.Assert.*;
 public class Lab4UnitTest {
     @Test
     public void testNoteValidation() {
-        // Test logic: Ensure our validation detects empty strings correctly
         String noteName = "";
         String noteContent = "Some content";
 
